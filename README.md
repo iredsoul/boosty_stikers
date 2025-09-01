@@ -1,57 +1,47 @@
-🇷🇺 Русская версия
-Boosty Stickers
-
-Это расширение добавляет стикеры на платформу Boosty, позволяя делать общение ярче и удобнее.
+Описание
+Boosty Stickers – это расширение для браузера, созданное для улучшения вашего опыта общения на платформе Boosty.to. Оно позволяет использовать все анимированные и статичные стикеры из чата Boosty в любых других мессенджерах и социальных сетях, таких как Telegram, VK, Discord, Instagram и других, которые поддерживают форматы WEBP и PNG. 🎉
 
 Установка
+Установка расширения Boosty Stickers происходит вручную, так как оно ещё не размещено в официальных магазинах расширений. Следуйте этим простым шагам:
 
-Скачайте репозиторий:
+1. Скачайте репозиторий
+Перейдите по ссылке на репозиторий: https://github.com/iredsoul/boosty_stikers.
+Нажмите на зелёную кнопку "<> Code" и выберите "Download ZIP".
+Распакуйте загруженный архив в удобное для вас место.
 
-Нажмите кнопку Code → Download ZIP.
+2. Откройте страницу расширений
+Откройте ваш браузер Google Chrome или Brave и перейдите на страницу расширений. Вы можете сделать это, введя в адресную строку chrome://extensions или brave://extensions.
 
-Или склонируйте проект:
+3. Включите режим разработчика
+В правом верхнем углу страницы расширений найдите переключатель "Режим разработчика" (Developer mode) и активируйте его.
 
-git clone https://github.com/iredsoul/boosty_stikers.git
+4. Загрузите расширение
+Нажмите кнопку "Загрузить распакованное расширение" (Load unpacked).
+В появившемся окне выберите папку, в которую вы распаковали скачанный архив.
 
+После выполнения этих шагов расширение Boosty Stickers появится в списке ваших расширений и будет готово к использованию! 🚀
+<br>
+<br>
 
-Распакуйте папку (если скачивали ZIP).
-
-Откройте браузер Chrome или Edge и перейдите на страницу:
-chrome://extensions/
-
-Включите Режим разработчика (Developer mode).
-
-Нажмите Загрузить распакованное расширение (Load unpacked).
-
-Укажите папку с проектом (boosty_stikers).
-
-Расширение появится в списке и станет доступным для использования. 🎉
-
-🇬🇧 English version
-Boosty Stickers
-
-This extension adds stickers to the Boosty platform, making communication more fun and expressive.
+Description
+Boosty Stickers is a browser extension designed to enhance your communication experience on the Boosty.to platform. It allows you to use all animated and static stickers from the Boosty chat in other messengers and social networks, such as Telegram, VK, Discord, Instagram, and any others that support WEBP and PNG formats. 🎉
 
 Installation
+Installing the Boosty Stickers extension is a manual process, as it's not yet available on official extension stores. Follow these simple steps:
 
-Download the repository:
+1. Download the Repository
+Go to the repository link: https://github.com/iredsoul/boosty_stikers.
+Click the green "<> Code" button and select "Download ZIP".
+Unzip the downloaded archive to a location you can easily access.
 
-Click Code → Download ZIP.
+2. Open the Extensions Page
+Open your Google Chrome or Brave browser and navigate to the extensions page. You can do this by typing chrome://extensions or brave://extensions into the address bar.
 
-Or clone the project:
+3. Enable Developer Mode
+In the top-right corner of the extensions page, find the "Developer mode" toggle switch and turn it on.
 
-git clone https://github.com/iredsoul/boosty_stikers.git
+4. Load the Extension
+Click the "Load unpacked" button.
+In the pop-up window, select the folder where you unzipped the downloaded archive.
 
-
-Unzip the folder (if you downloaded ZIP).
-
-Open Chrome or Edge and go to:
-chrome://extensions/
-
-Enable Developer mode.
-
-Click Load unpacked.
-
-Select the project folder (boosty_stikers).
-
-The extension will appear in your extensions list and will be ready to use. 🎉
+Once you've completed these steps, the Boosty Stickers extension will appear in your extensions list and will be ready to use! 🚀

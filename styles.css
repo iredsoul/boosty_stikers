@@ -1,0 +1,35 @@
+#sticker-panel {
+  display: none;
+  position: fixed;
+  background: #e0e0e0;
+  border: 2px solid #333;
+  padding: 15px;
+  z-index: 100000;
+  max-width: 200px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.4);
+}
+
+.sticker {
+  width: 28px;
+  height: 28px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.sticker:hover {
+  opacity: 0.8;
+}
+
+#sticker-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 5px 10px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+#sticker-button:hover {
+  background-color: #0056b3;
+}

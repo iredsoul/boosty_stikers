@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Boosty Stickers",
+  "version": "1.4",
+  "description": "Adds stickers to Boosty live chat",
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://*.boosty.to/*"],
+      "js": ["content.js"],
+      "css": ["styles.css"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["stickers/*.png"],
+      "matches": ["*://*.boosty.to/*"]
+    }
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}

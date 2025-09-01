@@ -1,5 +1,5 @@
 Описание
-Boosty Stickers – это расширение для браузера, созданное для улучшения вашего опыта общения на платформе Boosty.to. Оно позволяет использовать все анимированные и статичные стикеры из чата Boosty в любых других мессенджерах и социальных сетях, таких как Telegram, VK, Discord, Instagram и других, которые поддерживают форматы WEBP и PNG. 🎉
+Boosty Stickers – это расширение для браузера, созданное для улучшения вашего опыта общения на платформе Boosty.to. Оно позволяет использовать статичные стикеры в чате Boosty . 🎉
 
 Установка
 Установка расширения Boosty Stickers происходит вручную, так как оно ещё не размещено в официальных магазинах расширений. Следуйте этим простым шагам:
@@ -24,7 +24,7 @@ Boosty Stickers – это расширение для браузера, соз�
 <br>
 
 Description
-Boosty Stickers is a browser extension designed to enhance your communication experience on the Boosty.to platform. It allows you to use all animated and static stickers from the Boosty chat in other messengers and social networks, such as Telegram, VK, Discord, Instagram, and any others that support WEBP and PNG formats. 🎉
+Boosty Stickers is a browser extension designed to enhance your communication experience on the Boosty.to platform. It allows you to use  stickers from the Boosty chat . 🎉
 
 Installation
 Installing the Boosty Stickers extension is a manual process, as it's not yet available on official extension stores. Follow these simple steps:
